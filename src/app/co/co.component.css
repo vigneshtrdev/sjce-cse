@@ -1,0 +1,21 @@
+#about-back
+{
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+url('../../assets/background.jpg');
+  background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+url('../../assets/background.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+url('../../assets/background.jpg');
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron
+{
+  background: rgba(0, 0, 0, 0);
+  font-family: 'Righteous',sans-serif;
+  color: #fff;
+  text-shadow: 2px 2px #000;
+  padding-top: 200px;
+}

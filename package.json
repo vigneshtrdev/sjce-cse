@@ -27,7 +27,7 @@
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
     "hover.css": "^2.2.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lightbox2": "^2.10.0",
     "ng2-smooth-scroll": "^1.0.1",
     "ngx-progressbar": "^2.0.3",
